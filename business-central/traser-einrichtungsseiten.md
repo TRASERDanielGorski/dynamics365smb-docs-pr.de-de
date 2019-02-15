@@ -8,10 +8,11 @@ ms.reviewer: dgo
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-service: "traser-dms-365"
+ms-service: "TRASER-DMS-365"
 ---
 
 # TRASER Einrichtungsseiten
+
 Die TRASER Einrichtungsseiten bieten Ihnen die Möglichkeit, alle Einrichtungsseiten, die zu einer bestimmten Benutzergruppe gehören, von einer einzigen Seite aus aufrufen zu können.
 
 Es gibt die folgenden TRASER Einrichtungsseiten:
@@ -23,6 +24,7 @@ Es gibt die folgenden TRASER Einrichtungsseiten:
 - TRASER Finanzbuchhaltung Einrichtung
 
 ## TRASER Verkauf Einrichtung
+
 Mit Hilfe der Seite **TRASER Verkauf Einrichtung** können Sie direkt die Einrichtungsseiten **Debitoren & Verkauf Einr.** sowie **Marketing & Vertrieb Einr.** aufrufen.
 
 - Suchen Sie die Seite **TRASER Verkauf Einrichtung** über die Schnellsuche in Dynamics NAV.
@@ -40,6 +42,7 @@ Mit Hilfe der Seite **TRASER Verkauf Einrichtung** können Sie direkt die Einric
 - Die Seite **TRASER Verkauf Einrichtung** wird geöffnet.
 
 ## TRASER Kreditoren & Einkauf Einrichtung
+
 Mit Hilfe der Seite **TRASER Kreditoren & Einkauf Einr.** können Sie direkt die Seite **Kreditoren & Einkauf Einr.** aufrufen.
 
 - Suchen Sie die Seite **TRASER Kreditoren & Einkauf Einr.** über die Schnellsuche in Dynamics NAV.
@@ -57,6 +60,7 @@ Mit Hilfe der Seite **TRASER Kreditoren & Einkauf Einr.** können Sie direkt die
 - Die Seite **TRASER Kreditoren & Einkauf Einr.** wird geöffnet.
 
 ## TRASER Serviceeinrichtung
+
 Mit Hilfe der Seite **TRASER Serviceeinrichtung** können Sie direkt die Seite Serviceeinrichtung aufrufen.
 
 - Suchen Sie die Seite **TRASER Serviceeinrichtung** über die Schnellsuche in Dynamics NAV.
@@ -74,6 +78,7 @@ Mit Hilfe der Seite **TRASER Serviceeinrichtung** können Sie direkt die Seite S
 - Die Seite **TRASER Serviceeinrichtung** wird geöffnet.
 
 ## TRASER Lagereinrichtung
+
 Mit Hilfe der Seite **TRASER Lager Einrichtung** können Sie direkt die Seite **Lager Einrichtung** aufrufen.
 
 - Suchen Sie die Seite **TRASER Lager Einrichtung** über die Schnellsuche in Dynamics NAV.
@@ -91,6 +96,7 @@ Mit Hilfe der Seite **TRASER Lager Einrichtung** können Sie direkt die Seite **
 - Die Seite **TRASER Lager Einrichtung** wird geöffnet.
 
 ## TRASER Finanzbuchhaltung Einrichtung
+
 Mit Hilfe der Seite **TRASER Finanzbuchhaltung Einrichtung** können Sie direkt die Seite **Finanzbuchhaltung Einrichtung** aufrufen.
 
 - Suchen Sie die Seite **TRASER Finanzbuchhaltung Einrichtung** über die Schnellsuche in Dynamics NAV.
