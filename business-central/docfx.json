@@ -45,7 +45,7 @@
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "d365businesscentral",
+    "dest": "../../TRASER-DMS-365",
     "markdownEngineName": "markdig"
   }
 }
