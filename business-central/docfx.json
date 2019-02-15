@@ -44,7 +44,10 @@
       "extendBreadcrumb": true
     },
     "fileMetadata": {},
-    "template": [],
+    "template": [
+      "default",
+      "templates/material"
+  ],
     "dest": "../../TRASER-DMS-365",
     "markdownEngineName": "markdig"
   }
